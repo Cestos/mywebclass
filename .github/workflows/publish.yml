@@ -8,7 +8,7 @@ on:
       - 'v*'
 
 env:
-  DOCKER_REPO_NAME: celdum/classassigment
+  DOCKER_REPO_NAME: celdum/classassigment1
 
 jobs:
   build:
