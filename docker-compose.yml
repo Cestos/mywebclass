@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
     master:
-      image: celdum/classassigment1
+      image: celdum/classassigment1:master
       deploy:
         replicas: 2
       pull_policy: always
